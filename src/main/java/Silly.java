@@ -91,10 +91,6 @@ public class Silly implements Comparable<Silly>{
         this.name = first + second;
     }
 
-
-
-
-
     public static void main(String[] args) {
         /**
          * Task 1 (continued): The below demonstrates how each of the Silly
@@ -231,4 +227,3 @@ public class Silly implements Comparable<Silly>{
      *                accordingly.
      */
 }
-
