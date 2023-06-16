@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * This file contains a few exercises to familiarize you with specific
+ * This file contains a few exercises to familiarize you with specific 
  * class features in Java.
  *
  * You should read this file from top-to-bottom. Any tasks you are to complete
